@@ -14,3 +14,20 @@
  	font-size: 14px;
  	background-color:#4f0600;
  }
+ 
+ .top-bar-outer{
+ background-color:white;
+ }
+ 
+ .none{
+  display:none;
+ }
+ .top-bar{
+ max-width: 800px;
+ margin: 0 auto;
+ display: flex;
+ justify-content: space-between;
+ }
+ 
+ .hide{
+ display: none}
